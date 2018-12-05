@@ -1,1 +1,1 @@
-print('hbb is good')
+print('hbb is good boy')
