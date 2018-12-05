@@ -1,1 +1,1 @@
-print('hbb is good boy')
+print('hbb is a boy')
