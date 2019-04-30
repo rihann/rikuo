@@ -1,1 +1,0 @@
-print('hbb is a boy')
